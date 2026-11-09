@@ -1,3 +1,8 @@
+/*! Punto en comun | Responsable del proyecto: Martin Yu
+ * Project-ID: MY-PUNTO-EN-COMUN-2026
+ * Original: https://hightechbusiness.github.io/
+ * Own contributions: see AUTHORS.md and LICENSE. Third-party licenses are retained.
+ */
 /*! @license Three.js
 The MIT License
 

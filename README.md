@@ -43,3 +43,11 @@ Hoy trabajo en Mercado Libre. Este espacio es un proyecto personal e independien
 v0.3.2 · El origen de una idea. Edición elegida con ondas arcoíris.
 
 El código empaquetado incluye Three.js y conserva su licencia MIT completa. Los nombres y logos de Mercado Pago se usan para identificar el proyecto relacionado; pertenecen a sus titulares.
+
+## Autoría y permisos
+
+Responsable del proyecto y dirección creativa: **Martin Yu**. [Autoría y procedencia](AUTHORS.md), [derechos y permisos sobre aportes propios](LICENSE) y [licencias de terceros](THIRD-PARTY-NOTICES.txt).
+
+Se permite navegar y usar normalmente la web. El aviso propio no concede una licencia general de reutilización y conserva los derechos legales, permisos anteriores, funciones permitidas de GitHub y licencias de terceros. La MIT de Three.js no se presenta como licencia de todo el proyecto.
+
+Los metadatos y firmas `MY-PUNTO-EN-COMUN-2026` documentan la atribución de una versión; no impiden copiar, no rastrean visitantes y no constituyen un registro oficial ante la DNDA.
