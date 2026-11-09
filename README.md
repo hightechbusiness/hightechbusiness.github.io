@@ -22,6 +22,10 @@ Podés pausar, omitir la entrada, recorrer con scroll o volver a verla. La rueda
 
 El cierre destaca Meli Propuestas y enlaza a su historia y herramientas. El contacto abre un borrador de Gmail que la persona puede revisar y enviar.
 
+## Formación y recorrido profesional
+
+La sección de crecimiento conecta los proyectos con tres credenciales verificables: Google Project Management (programa completado), Introduction to Software Engineering de IBM (curso completado) y Crash Course on Python de Google (curso completado). La formación más amplia con IBM se presenta como aprendizaje en curso, sin atribuir un programa completo obtenido. Incluye el [perfil profesional de Martin Yu en LinkedIn](https://www.linkedin.com/in/martin-yu/).
+
 ## Aportes
 
 Podés abrir un issue para sugerir una mejora de la presentación. Para Meli Propuestas, usá su [repositorio](https://github.com/hightechbusiness/meli-propuestas-by-martin-yu). No incluyas datos de clientes ni condiciones comerciales particulares. Una estrella ayuda a dar visibilidad al trabajo y es opcional.
